@@ -103,3 +103,11 @@ width: 100%
     color:white;
     text-shadow:none;
 }
+a{
+    background-color:white;
+    border-style:ridge;
+}
+animage{
+    height:100px;
+    width:50px;
+}
